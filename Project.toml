@@ -1,7 +1,7 @@
 name = "CHGNetInterface"
 uuid = "ed376acd-e979-4125-b637-573100a4d0f2"
 authors = ["cometscome <cometscome@gmail.com> and contributors"]
-version = "1.0.0-DEV"
+version = "0.1.0"
 
 [deps]
 CondaPkg = "992eb4ea-22a4-4c89-a5bb-47a3300528ab"
